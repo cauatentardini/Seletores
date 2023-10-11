@@ -1,0 +1,55 @@
+body {
+  background-color: #000000;
+  font-family: sans-serif;
+}
+
+h1 {
+  
+  font-size: 2em;
+  color: #ffffff;
+  text-align: center;
+}
+
+p {
+  font-size: 1em;
+  color: #0516ff;
+  text-align: center;
+}
+
+button {
+  background-color: #000000;
+  color: #ffffff;
+  font-size: 1em;
+  width: 100px;
+  height: 50px;
+  text-align: center;
+}
+
+#titulo {
+  font-size: 3em;
+  color: rgb(68, 0, 255);
+  text-align: center;
+}
+
+.titulo {
+  font-size: 2em;
+  color: blue;
+  text-align: center;
+}
+
+.principal {
+  background-color: #000000;
+  text-align: center;
+}
+
+.principal .titulo {
+  font-size: 3em;
+  color: green;
+  text-align: center;
+}
+
+button:hover {
+  background-color: #000000;
+  color: #fbfbfb;
+  position: relative;
+}
