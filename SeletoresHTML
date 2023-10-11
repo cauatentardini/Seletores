@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <link rel="stylesheet" href="Introdução a CSS.css">
+</head>
+<body>
+    <h1 class="TITULO">Aula Pratica de seletores CSS</h1>
+    <h1>TITULO IMPACTANTE</h1>
+    <p>
+        PARAGRAFO IMPACTANTE.
+    </p>
+    <h2 class="TAMO">TAMO JUNTO</h2>
+    <button> CLICA AQUI O </button>
+</body>
+</html>
